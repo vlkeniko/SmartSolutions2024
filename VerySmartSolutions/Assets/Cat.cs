@@ -6,9 +6,9 @@ public class Cat : MonoBehaviour
 {
     public string name = "Paco";
     public int value = 8; 
-
-    private string owner ="Michelle"; 
-    private string gender= "Male"; 
+    public string gender= "Male";
+    public string owner ="Michelle"; 
+    
     // Start is called before the first frame update
     void Start()
     {
